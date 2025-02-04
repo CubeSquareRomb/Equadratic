@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.rombsquare.quadeqs"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.rombsquare.quadeqs"
